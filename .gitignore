@@ -1,7 +1,7 @@
 # Exercises
 
-storage/tmp/*.[0-9]{2,}.png
-*.php
-!/public/!index.php
-public/*.jpg
-!storage/tmp/*.jpg
+/**/tmp/??.png
+/*.php
+!public/!index.php
+.jpg
+!public/*.jpg
